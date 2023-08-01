@@ -1,0 +1,17 @@
+.foto{
+    width:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    text-align: center;
+}
+div,p{
+    height:30;
+    width:70px;
+    border:5px solid blue;
+    margin: 5px;
+    padding: 20px;
+
+}

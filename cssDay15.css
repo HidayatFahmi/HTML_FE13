@@ -1,0 +1,37 @@
+.div2{
+    border-radius: 50%;
+    background-image:url(image/profile\ pict.jpg);
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border: 2px solid black;
+}
+.container{
+    width: 300px;
+    height: 210px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.kotak1, .kotak2, .kotak3{
+    /* margin: 10px; */
+    padding: 10px;
+    height: 15px;
+    display: inline-block;
+    transition: 1s;
+
+}
+.container:hover .kotak1{
+margin-top: 180px;
+}
+.kotak2{
+    position:sticky;
+    top: 20px;
+}
+
+/* 
+Layout HTML
+1. float
+2. position
+3. Display
+*/

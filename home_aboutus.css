@@ -1,0 +1,8 @@
+.ronaldo,.fahmi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 50%; Mengatur tinggi container sesuai kebutuhan */
+    height:50vh;
+  }
+  

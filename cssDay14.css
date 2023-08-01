@@ -1,0 +1,51 @@
+h4{
+    background-color: green;
+    color: white;
+}
+.colorGreen{
+    background-color: green;
+}
+#colorOrange{
+    background-color: orange;
+}
+#colorPink{
+    background-color: pink;
+}
+/* Atribute Selector */
+input[type=text]{
+    color: red;
+    padding: 10px;
+}
+input[type=password]{
+    color: blue;
+}
+/* Universal Selector */
+/* *{
+background-color: deeppink;
+} */
+/* 
+* cara impport file css ada 3 cara yaitu :
+1. inline
+2. external
+3. internal
+
+* Selector ada 5 jenis :
+1. class
+2. ID
+3. Tag
+4. Attribute
+- input[type=text]
+5. universal
+
+* search engine otomize sebaiknya id digunakan 1 kali
+
+* klasifikasi color
+1. named color
+2. hex color
+#0000ff
+
+3. rgb(0 125 255)
+4. alpha channel for opacity, rgba(0 0 255 0.7)
+
+* text alignment, left right, center, justify, inherit
+*/

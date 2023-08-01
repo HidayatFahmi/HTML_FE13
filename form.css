@@ -1,0 +1,21 @@
+.baris1{
+    text-align: right;
+}
+.radio{
+    text-align: center;
+}
+.fahmi{
+text-align: center;
+}
+.fahmi img{
+    width:100px;
+}
+.ronaldo{
+    /* width:50%; */
+    justify-content: center;
+    display:flex;
+    align-items: center;
+}
+.ronaldo img{
+    width:35%;
+}

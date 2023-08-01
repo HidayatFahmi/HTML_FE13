@@ -1,0 +1,46 @@
+.container{
+    background-image: url(bg6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    background-color: aqua;
+}
+.header ul li{
+    display: inline-block;
+    margin: 10px;
+    /* background-color: aqua; */
+    /* padding: 3px; */
+}
+.header ul img{
+    width: 45px;  
+}
+.header a{
+    text-decoration: none;
+    color: black;
+}
+.header a:link{
+ color: blue;
+}
+.header a:hover{
+    font-size: 17px;
+    background-color: lightgreen;
+}
+.header a:active{
+    color: blue;
+}
+
+.data{
+    text-align: center;
+    background-color: salmon;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+.former{
+    position: relative;
+    left:30%;
+    margin: auto;
+}
